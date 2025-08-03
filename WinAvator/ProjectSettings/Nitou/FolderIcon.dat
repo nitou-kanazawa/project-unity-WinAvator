@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78845b16d25367b41a520c4aefa26294, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isEnabled: 0
+  _entryStore:
+    _entries:
+    - _isEnabled: 1
+      _pattern:
+        _value: Plugins
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: 97615ecb85dfaaf4e941746ef16dc3cb, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Scripts
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: a032bcae4685c764e8492dd56b6e9728, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Fonts
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: a3f8a984e1ef2534c873ced102e32a89, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Editor
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: 62e5bf81724da2b43a8e33a2508cc525, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Prefabs
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: 9475ce15728b91c458fceb6e7e58e276, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Resources
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: 96e67293a3a386d40b8c1eb04c5c5e6d, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Textures
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: f6c5bd522a2b0884d9d66e34edd3515b, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Shaders
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: 29b6ef524950f2343a42cd9f779f53f7, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Sprites
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: 80442e2de6dc28f4d9a9ce1d3d4dff83, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Materials
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: 8b4c22297be32304b81897b5d121e26b, type: 3}
+    - _isEnabled: 1
+      _pattern:
+        _value: Scenes
+        _type: 1
+      _iconTexture: {fileID: 2800000, guid: 644fb25835757d640b9a3684b478b798, type: 3}

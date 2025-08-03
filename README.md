@@ -1,44 +1,42 @@
-# template-unity-Project
-Unity6.0のテンプレート．
+# Win Avtor
+デスクトップ上にアバターを表示するWindows向けアプリ．
 
 
 
 
-## UPM パッケージ
-
-- NuGetForUnity
-- R3
-- UniTask
-- VContainer
-- Unity Excel Importer
 
 
 
-#### NuGetForUnity
+
+## 使用ライブラリ
+
+#### Unity
+
+**Runtime** :
+- [NuGetForUnity]()
+- [R3](https://github.com/Cysharp/R3)
+- [UniTask](https://github.com/Cysharp/UniTask/tree/master)
+- [VContainer]()
+- [LitMotion](https://github.com/annulusgames/LitMotion)
+- [Unity Excel Importer]()
+
+**Editor** :
+- [Alchemy](https://github.com/annulusgames/Alchemy)
+
+#### NuGet
+
+**Runtime** :
+
+**Editor** :
+
+
+
+
+
+## ディレクトリ構成
+
 
 ```
-https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity
-```
-
-
-#### R3
 
 ```
-https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity
-```
 
-#### UniTask
-
-```
-https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
-```
-
-#### VContainer
-
-```
-```
-
-#### Unity Excel Importer
-
-```
-```
